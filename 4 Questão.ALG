@@ -2,7 +2,7 @@ Algoritmo "semnome"
 // Disciplina   : [Linguagem e L?gica de Programa??o]
 // Professor   : Antonio Carlos Nicolodi
 // Descri??o   : Aqui voc? descreve o que o programa faz! (fun??o)
-// Autor(a)    : Rodrigo Landulfo
+// Autor(a)   :
 // Data atual  : 28/08/2023
 Var
    // Variaveis:
@@ -20,7 +20,7 @@ escreval ("Quantos KG de Morangos o senhor(a) que deseja comprar? ")
 leia (kgMorango)
 
 
-escreval ("Quantos KG de Maçãs o senhor(a) que deseja comprar? ")
+escreval ("Quantos KG de MaÃ§Ã£s o senhor(a) que deseja comprar? ")
 leia (kgMaca)
 
 limpatela
@@ -48,7 +48,7 @@ precototal <- (precototal - desconto)
 fimse
 
 escreval ("Quantidade de Morangos Adquiridos: ", kgMorango)
-escreval ("Quantidade de Maçãs Adquiridas: ", kgMaca)
-escreval ("Preço a ser Pago: ",precototal)
+escreval ("Quantidade de MaÃ§Ã£s Adquiridas: ", kgMaca)
+escreval ("PreÃ§o a ser Pago: ",precototal)
 
 Fimalgoritmo
